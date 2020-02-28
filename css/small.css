@@ -1,0 +1,19 @@
+
+.container {
+  width: 100%;
+  margin:0;
+  padding: 0;
+  text-align: center;
+}
+
+.TopImage img{
+  border-radius:0;
+}
+
+aside.right,aside.left{
+  float: inherit;
+}
+
+html{
+  font-size: 14px;
+}
